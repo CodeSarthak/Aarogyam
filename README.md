@@ -1,5 +1,5 @@
 # MediRemi
 
-A Health Care Reminder Application.
+An all-in-one health care mobile application.
 
 
